@@ -1,13 +1,37 @@
 <h1 align="center">Hey Everyone 👋, I'm Itishree Arati Jena</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate software developer and software testing fresher, eager to contribute to innovative projects and grow my skills.</h3>
 <img align="right"  alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aratigithub24&label=Profile%20views&color=0e75b6&style=flat" alt="aratigithub24" /> </p>
 
-- 🌱 I’m currently learning **DSA, Web developement**
+𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-- 💬 Ask me about **HTML,CSS,Javascript,Core java,JDBC,Servlets,SQL,C**
+- 🌍 From: Odisha, India
+- 🎓 MCA from Balasore College of Engineering & Technology (CS branch)
+- 🏢 Currently undergoing internship training at J & Qspider, Hebbal, Bangalore
+- 💻 Passionate about **𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐭𝐞𝐬𝐭𝐢𝐧𝐠**
+- 💼 Seeking full-time Software Engineer opportunities
+- 📧 How to reach me **jarati9178@gmail.com**
+  
+𝐒𝐤𝐢𝐥𝐥𝐬
 
-- 📫 How to reach me **jarati9178@gmail.com**
+𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
+**Java Fullstack Development**
+- Core Java
+- JDBC
+- Servlets
+- Spring Boot
+- J2EE
+- HTML, CSS, JavaScript
+
+**Software Testing**
+- Manual Testing
+- Selenium Testing
+- BDD Cucumber
+- TestNG
+
+**Databases**
+- SQL
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
