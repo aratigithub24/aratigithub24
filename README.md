@@ -10,7 +10,7 @@
 - 🏢 Currently undergoing internship training at J & Qspider, Hebbal, Bangalore
 - 💻 Passionate about **𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐭𝐞𝐬𝐭𝐢𝐧𝐠**
 - 💼 Seeking full-time Software Engineer opportunities
-- 📧 How to reach me **jarati9178@gmail.com**
+- 📧 How to reach me **itishreearati.j@gmail.com**
   
 𝐒𝐤𝐢𝐥𝐥𝐬
 
